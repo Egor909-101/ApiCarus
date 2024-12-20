@@ -1,0 +1,76 @@
+﻿@page "/car"
+
+
+<section id="">
+    <div class="container">
+        <h1>Продукт</h1>
+
+        <table class="table">
+            <thead>
+                <tr>
+                    <th scope="col">ProductId</th>
+                    <th scope="col">Name</th>
+                    <th scope="col">Description</th>
+                    <th scope="col">Prise</th>
+                </tr>
+            </thead>
+            <tbody>
+               @foreach (var flow in result)
+                {
+                    <tr>
+                        <th scope="row">@flow.ProductId</th>
+                        <td>@flow.Name</td>
+                        <td>@flow.Description</td>
+                        <td>@flow.Price</td>
+                    </tr>
+                } 
+            </tbody>
+        </table>
+    </div>
+</section>
+
+
+@code {
+   public partial class Cars
+    {
+        public int CarId { get; set; }
+
+        public string Brand { get; set; } = null!;
+
+        public string Model { get; set; } = null!;
+
+        public int Year { get; set; }
+
+        public int? Mileage { get; set; }
+
+        public decimal Price { get; set; }
+
+        public string? Description { get; set; }
+
+    }
+
+    public Cars[] result = new Cars[] { };
+
+
+    protected override async Task OnInitializedAsync()
+    {
+        var client = new HttpClient();
+
+        client.BaseAddress = new Uri("https://apiandri.onrender.com/");
+
+        result = await client.GetFromJsonAsync<Cars[]>("api/Product");
+
+        return;
+    }
+
+
+
+
+
+
+
+
+
+
+
+}
