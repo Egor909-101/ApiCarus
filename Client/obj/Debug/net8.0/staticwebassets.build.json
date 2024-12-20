@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "x8gwCz6kHLIQnRigjCjoBx5mlph+AVgksgREqGOVS0o=",
+  "Hash": "WB/0AiGoDmHGE+bUVJnnR/3XyHGM9RqPkWxyQMBItj0=",
   "Source": "Client",
   "BasePath": "/",
   "Mode": "Root",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "6auffdxvcp",
-      "Integrity": "8iXPnFFdtg+Js0MG27kJTTCAywbzddK9ZUZHlY6Sv9o=",
+      "Fingerprint": "7oijimuxy2",
+      "Integrity": "uZAGx9j6vNG+O4riGdiKpEKyZjJs3+CJL7oiKXpttlQ=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net8.0\\blazor.boot.json"
@@ -73,8 +73,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "00efqmeq13",
-      "Integrity": "YDk+42HlFVirnDiVgzRhUeLL7+0mV8tMXd5+b9flqY4=",
+      "Fingerprint": "o8ytzfet0b",
+      "Integrity": "aO4dLQRh96PxMOnWeVhuN58fNPdI7uUGHbyfeb4lRrU=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net8.0\\Client.pdb"
@@ -94,8 +94,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "ldxifvlugt",
-      "Integrity": "h2uMSffAO3Op8VkPjMiUxE2mVUFKmrKaQrkPRsgNSfc=",
+      "Fingerprint": "0cb6kxi9wu",
+      "Integrity": "IGk0rnCDgIC3E1B35TnpIKR700KY4Vhh17NrgTJKmXs=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\timaf\\Documents\\GitHub\\ApiCarus\\Client\\obj\\Debug\\net8.0\\webcil\\Client.wasm"
@@ -4322,7 +4322,7 @@
       "OriginalItemSpec": "C:\\Users\\timaf\\Documents\\GitHub\\ApiCarus\\Client\\obj\\Debug\\net8.0\\webcil\\WindowsBase.wasm"
     },
     {
-      "Identity": "C:\\Users\\timaf\\Documents\\GitHub\\ApiCarus\\Client\\obj\\Debug\\net8.0\\compressed\\0kih5qk3hm-6auffdxvcp.gz",
+      "Identity": "C:\\Users\\timaf\\Documents\\GitHub\\ApiCarus\\Client\\obj\\Debug\\net8.0\\compressed\\0kih5qk3hm-7oijimuxy2.gz",
       "SourceId": "Client",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\timaf\\Documents\\GitHub\\ApiCarus\\Client\\obj\\Debug\\net8.0\\compressed\\",
@@ -4336,8 +4336,8 @@
       "RelatedAsset": "C:\\Users\\timaf\\Documents\\GitHub\\ApiCarus\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "jprubz3lkg",
-      "Integrity": "x65wnMhKDPBbLpgPVf6z4cSt2ybdGIuaymT5nBWHIkw=",
+      "Fingerprint": "c03wcpuxgo",
+      "Integrity": "xHhRkcOlAdShGAk148sfVt0h7DyhkbCM9Omnd3Tisu0=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\timaf\\Documents\\GitHub\\ApiCarus\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.boot.json"
@@ -6695,7 +6695,7 @@
       "OriginalItemSpec": "C:\\Users\\timaf\\Documents\\GitHub\\ApiCarus\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Linq.Expressions.wasm"
     },
     {
-      "Identity": "C:\\Users\\timaf\\Documents\\GitHub\\ApiCarus\\Client\\obj\\Debug\\net8.0\\compressed\\kb90l4x90i-ldxifvlugt.gz",
+      "Identity": "C:\\Users\\timaf\\Documents\\GitHub\\ApiCarus\\Client\\obj\\Debug\\net8.0\\compressed\\kb90l4x90i-0cb6kxi9wu.gz",
       "SourceId": "Client",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\timaf\\Documents\\GitHub\\ApiCarus\\Client\\obj\\Debug\\net8.0\\compressed\\",
@@ -6709,8 +6709,8 @@
       "RelatedAsset": "C:\\Users\\timaf\\Documents\\GitHub\\ApiCarus\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Client.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "opeqxw49lb",
-      "Integrity": "BHJdalLYUBqc/iQeZ6Rd+ejR6FyhzOe7pSPT80Rt5ng=",
+      "Fingerprint": "gneomiqnky",
+      "Integrity": "1OFPJ3NW8+PTveCx5QvUTa+1ndUQXB1OgjwH25vtuks=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\timaf\\Documents\\GitHub\\ApiCarus\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Client.wasm"
@@ -7010,7 +7010,7 @@
       "OriginalItemSpec": "C:\\Users\\timaf\\Documents\\GitHub\\ApiCarus\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Private.CoreLib.wasm"
     },
     {
-      "Identity": "C:\\Users\\timaf\\Documents\\GitHub\\ApiCarus\\Client\\obj\\Debug\\net8.0\\compressed\\nrce2f7bjz-00efqmeq13.gz",
+      "Identity": "C:\\Users\\timaf\\Documents\\GitHub\\ApiCarus\\Client\\obj\\Debug\\net8.0\\compressed\\nrce2f7bjz-o8ytzfet0b.gz",
       "SourceId": "Client",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\timaf\\Documents\\GitHub\\ApiCarus\\Client\\obj\\Debug\\net8.0\\compressed\\",
@@ -7024,8 +7024,8 @@
       "RelatedAsset": "C:\\Users\\timaf\\Documents\\GitHub\\ApiCarus\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Client.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "qmweld7yp5",
-      "Integrity": "Tupl9SLLBCmdkRn4FCuedDAs12NEU4PidHo/c0XNRNk=",
+      "Fingerprint": "fit1lb1qic",
+      "Integrity": "pxzkICcAJjY+1EELiyFvYHkx/JR0qTmQGKVKdYjohq4=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\timaf\\Documents\\GitHub\\ApiCarus\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Client.pdb"
@@ -8641,8 +8641,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "1sib2x452w",
-      "Integrity": "L+Z/n4ZIA3elJkaMtrK0BqrMyq/pIxmmsLG40SoJeLI=",
+      "Fingerprint": "8saank1s7f",
+      "Integrity": "GKxaK9IsMBkATu2pZSCJbScPCYqd8FuBRz0pW5mnhqE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\app.css"
@@ -8752,11 +8752,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"8iXPnFFdtg+Js0MG27kJTTCAywbzddK9ZUZHlY6Sv9o=\""
+          "Value": "\"uZAGx9j6vNG+O4riGdiKpEKyZjJs3+CJL7oiKXpttlQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 20 Dec 2024 16:24:54 GMT"
+          "Value": "Fri, 20 Dec 2024 16:40:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8766,18 +8766,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-8iXPnFFdtg+Js0MG27kJTTCAywbzddK9ZUZHlY6Sv9o="
+          "Value": "sha256-uZAGx9j6vNG+O4riGdiKpEKyZjJs3+CJL7oiKXpttlQ="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "C:\\Users\\timaf\\Documents\\GitHub\\ApiCarus\\Client\\obj\\Debug\\net8.0\\compressed\\0kih5qk3hm-6auffdxvcp.gz",
+      "AssetFile": "C:\\Users\\timaf\\Documents\\GitHub\\ApiCarus\\Client\\obj\\Debug\\net8.0\\compressed\\0kih5qk3hm-7oijimuxy2.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000113109377"
+          "Quality": "0.000113160575"
         }
       ],
       "ResponseHeaders": [
@@ -8787,15 +8787,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8840"
+          "Value": "8836"
         },
         {
           "Name": "ETag",
-          "Value": "\"x65wnMhKDPBbLpgPVf6z4cSt2ybdGIuaymT5nBWHIkw=\""
+          "Value": "\"xHhRkcOlAdShGAk148sfVt0h7DyhkbCM9Omnd3Tisu0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 20 Dec 2024 16:24:35 GMT"
+          "Value": "Fri, 20 Dec 2024 16:37:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8815,19 +8815,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"8iXPnFFdtg+Js0MG27kJTTCAywbzddK9ZUZHlY6Sv9o=\""
+          "Value": "W/\"uZAGx9j6vNG+O4riGdiKpEKyZjJs3+CJL7oiKXpttlQ=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-8iXPnFFdtg+Js0MG27kJTTCAywbzddK9ZUZHlY6Sv9o="
+          "Value": "sha256-uZAGx9j6vNG+O4riGdiKpEKyZjJs3+CJL7oiKXpttlQ="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "C:\\Users\\timaf\\Documents\\GitHub\\ApiCarus\\Client\\obj\\Debug\\net8.0\\compressed\\0kih5qk3hm-6auffdxvcp.gz",
+      "AssetFile": "C:\\Users\\timaf\\Documents\\GitHub\\ApiCarus\\Client\\obj\\Debug\\net8.0\\compressed\\0kih5qk3hm-7oijimuxy2.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8836,7 +8836,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8840"
+          "Value": "8836"
         },
         {
           "Name": "Content-Type",
@@ -8844,11 +8844,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"x65wnMhKDPBbLpgPVf6z4cSt2ybdGIuaymT5nBWHIkw=\""
+          "Value": "\"xHhRkcOlAdShGAk148sfVt0h7DyhkbCM9Omnd3Tisu0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 20 Dec 2024 16:24:35 GMT"
+          "Value": "Fri, 20 Dec 2024 16:37:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8866,7 +8866,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-x65wnMhKDPBbLpgPVf6z4cSt2ybdGIuaymT5nBWHIkw="
+          "Value": "sha256-xHhRkcOlAdShGAk148sfVt0h7DyhkbCM9Omnd3Tisu0="
         }
       ]
     },
@@ -9018,7 +9018,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "20804"
+          "Value": "21052"
         },
         {
           "Name": "Content-Type",
@@ -9026,11 +9026,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"YDk+42HlFVirnDiVgzRhUeLL7+0mV8tMXd5+b9flqY4=\""
+          "Value": "\"aO4dLQRh96PxMOnWeVhuN58fNPdI7uUGHbyfeb4lRrU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 20 Dec 2024 16:24:53 GMT"
+          "Value": "Fri, 20 Dec 2024 16:36:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9040,18 +9040,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-YDk+42HlFVirnDiVgzRhUeLL7+0mV8tMXd5+b9flqY4="
+          "Value": "sha256-aO4dLQRh96PxMOnWeVhuN58fNPdI7uUGHbyfeb4lRrU="
         }
       ]
     },
     {
       "Route": "_framework/Client.pdb",
-      "AssetFile": "C:\\Users\\timaf\\Documents\\GitHub\\ApiCarus\\Client\\obj\\Debug\\net8.0\\compressed\\nrce2f7bjz-00efqmeq13.gz",
+      "AssetFile": "C:\\Users\\timaf\\Documents\\GitHub\\ApiCarus\\Client\\obj\\Debug\\net8.0\\compressed\\nrce2f7bjz-o8ytzfet0b.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000068932240"
+          "Quality": "0.000068268706"
         }
       ],
       "ResponseHeaders": [
@@ -9061,15 +9061,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "14506"
+          "Value": "14647"
         },
         {
           "Name": "ETag",
-          "Value": "\"Tupl9SLLBCmdkRn4FCuedDAs12NEU4PidHo/c0XNRNk=\""
+          "Value": "\"pxzkICcAJjY+1EELiyFvYHkx/JR0qTmQGKVKdYjohq4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 20 Dec 2024 16:24:35 GMT"
+          "Value": "Fri, 20 Dec 2024 16:36:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9089,19 +9089,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"YDk+42HlFVirnDiVgzRhUeLL7+0mV8tMXd5+b9flqY4=\""
+          "Value": "W/\"aO4dLQRh96PxMOnWeVhuN58fNPdI7uUGHbyfeb4lRrU=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-YDk+42HlFVirnDiVgzRhUeLL7+0mV8tMXd5+b9flqY4="
+          "Value": "sha256-aO4dLQRh96PxMOnWeVhuN58fNPdI7uUGHbyfeb4lRrU="
         }
       ]
     },
     {
       "Route": "_framework/Client.pdb.gz",
-      "AssetFile": "C:\\Users\\timaf\\Documents\\GitHub\\ApiCarus\\Client\\obj\\Debug\\net8.0\\compressed\\nrce2f7bjz-00efqmeq13.gz",
+      "AssetFile": "C:\\Users\\timaf\\Documents\\GitHub\\ApiCarus\\Client\\obj\\Debug\\net8.0\\compressed\\nrce2f7bjz-o8ytzfet0b.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9110,7 +9110,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "14506"
+          "Value": "14647"
         },
         {
           "Name": "Content-Type",
@@ -9118,11 +9118,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Tupl9SLLBCmdkRn4FCuedDAs12NEU4PidHo/c0XNRNk=\""
+          "Value": "\"pxzkICcAJjY+1EELiyFvYHkx/JR0qTmQGKVKdYjohq4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 20 Dec 2024 16:24:35 GMT"
+          "Value": "Fri, 20 Dec 2024 16:36:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9140,7 +9140,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Tupl9SLLBCmdkRn4FCuedDAs12NEU4PidHo/c0XNRNk="
+          "Value": "sha256-pxzkICcAJjY+1EELiyFvYHkx/JR0qTmQGKVKdYjohq4="
         }
       ]
     },
@@ -9155,7 +9155,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "19733"
+          "Value": "20245"
         },
         {
           "Name": "Content-Type",
@@ -9163,11 +9163,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"h2uMSffAO3Op8VkPjMiUxE2mVUFKmrKaQrkPRsgNSfc=\""
+          "Value": "\"IGk0rnCDgIC3E1B35TnpIKR700KY4Vhh17NrgTJKmXs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 20 Dec 2024 16:24:53 GMT"
+          "Value": "Fri, 20 Dec 2024 16:36:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9177,18 +9177,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-h2uMSffAO3Op8VkPjMiUxE2mVUFKmrKaQrkPRsgNSfc="
+          "Value": "sha256-IGk0rnCDgIC3E1B35TnpIKR700KY4Vhh17NrgTJKmXs="
         }
       ]
     },
     {
       "Route": "_framework/Client.wasm",
-      "AssetFile": "C:\\Users\\timaf\\Documents\\GitHub\\ApiCarus\\Client\\obj\\Debug\\net8.0\\compressed\\kb90l4x90i-ldxifvlugt.gz",
+      "AssetFile": "C:\\Users\\timaf\\Documents\\GitHub\\ApiCarus\\Client\\obj\\Debug\\net8.0\\compressed\\kb90l4x90i-0cb6kxi9wu.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000139431121"
+          "Quality": "0.000134843581"
         }
       ],
       "ResponseHeaders": [
@@ -9198,15 +9198,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7171"
+          "Value": "7415"
         },
         {
           "Name": "ETag",
-          "Value": "\"BHJdalLYUBqc/iQeZ6Rd+ejR6FyhzOe7pSPT80Rt5ng=\""
+          "Value": "\"1OFPJ3NW8+PTveCx5QvUTa+1ndUQXB1OgjwH25vtuks=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 20 Dec 2024 16:24:35 GMT"
+          "Value": "Fri, 20 Dec 2024 16:36:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9226,19 +9226,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"h2uMSffAO3Op8VkPjMiUxE2mVUFKmrKaQrkPRsgNSfc=\""
+          "Value": "W/\"IGk0rnCDgIC3E1B35TnpIKR700KY4Vhh17NrgTJKmXs=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-h2uMSffAO3Op8VkPjMiUxE2mVUFKmrKaQrkPRsgNSfc="
+          "Value": "sha256-IGk0rnCDgIC3E1B35TnpIKR700KY4Vhh17NrgTJKmXs="
         }
       ]
     },
     {
       "Route": "_framework/Client.wasm.gz",
-      "AssetFile": "C:\\Users\\timaf\\Documents\\GitHub\\ApiCarus\\Client\\obj\\Debug\\net8.0\\compressed\\kb90l4x90i-ldxifvlugt.gz",
+      "AssetFile": "C:\\Users\\timaf\\Documents\\GitHub\\ApiCarus\\Client\\obj\\Debug\\net8.0\\compressed\\kb90l4x90i-0cb6kxi9wu.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9247,7 +9247,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7171"
+          "Value": "7415"
         },
         {
           "Name": "Content-Type",
@@ -9255,11 +9255,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"BHJdalLYUBqc/iQeZ6Rd+ejR6FyhzOe7pSPT80Rt5ng=\""
+          "Value": "\"1OFPJ3NW8+PTveCx5QvUTa+1ndUQXB1OgjwH25vtuks=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 20 Dec 2024 16:24:35 GMT"
+          "Value": "Fri, 20 Dec 2024 16:36:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9277,7 +9277,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-BHJdalLYUBqc/iQeZ6Rd+ejR6FyhzOe7pSPT80Rt5ng="
+          "Value": "sha256-1OFPJ3NW8+PTveCx5QvUTa+1ndUQXB1OgjwH25vtuks="
         }
       ]
     },
@@ -36819,7 +36819,7 @@
       ]
     },
     {
-      "Route": "css/app.1sib2x452w.css",
+      "Route": "css/app.8saank1s7f.css",
       "AssetFile": "C:\\Users\\timaf\\Documents\\GitHub\\ApiCarus\\Client\\wwwroot\\css\\app.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -36829,7 +36829,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3606"
+          "Value": "2833"
         },
         {
           "Name": "Content-Type",
@@ -36837,11 +36837,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"L+Z/n4ZIA3elJkaMtrK0BqrMyq/pIxmmsLG40SoJeLI=\""
+          "Value": "\"GKxaK9IsMBkATu2pZSCJbScPCYqd8FuBRz0pW5mnhqE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 19 Dec 2024 18:20:20 GMT"
+          "Value": "Fri, 20 Dec 2024 16:37:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -36851,7 +36851,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "1sib2x452w"
+          "Value": "8saank1s7f"
         },
         {
           "Name": "label",
@@ -36859,7 +36859,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-L+Z/n4ZIA3elJkaMtrK0BqrMyq/pIxmmsLG40SoJeLI="
+          "Value": "sha256-GKxaK9IsMBkATu2pZSCJbScPCYqd8FuBRz0pW5mnhqE="
         }
       ]
     },
@@ -36874,7 +36874,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3606"
+          "Value": "2833"
         },
         {
           "Name": "Content-Type",
@@ -36882,11 +36882,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"L+Z/n4ZIA3elJkaMtrK0BqrMyq/pIxmmsLG40SoJeLI=\""
+          "Value": "\"GKxaK9IsMBkATu2pZSCJbScPCYqd8FuBRz0pW5mnhqE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 19 Dec 2024 18:20:20 GMT"
+          "Value": "Fri, 20 Dec 2024 16:37:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -36896,7 +36896,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-L+Z/n4ZIA3elJkaMtrK0BqrMyq/pIxmmsLG40SoJeLI="
+          "Value": "sha256-GKxaK9IsMBkATu2pZSCJbScPCYqd8FuBRz0pW5mnhqE="
         }
       ]
     },

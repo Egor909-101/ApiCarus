@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\timaf\\Documents\\GitHub\\ApiCarus\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7E39742C-7233-4807-9B2B-4F2CCB85B2D5}|Client\\Client.csproj|c:\\users\\timaf\\documents\\github\\apicarus\\client\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7E39742C-7233-4807-9B2B-4F2CCB85B2D5}|Client\\Client.csproj|solutionrelative:client\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{7E39742C-7233-4807-9B2B-4F2CCB85B2D5}|Client\\Client.csproj|c:\\users\\timaf\\documents\\github\\apicarus\\client\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7E39742C-7233-4807-9B2B-4F2CCB85B2D5}|Client\\Client.csproj|solutionrelative:client\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E39742C-7233-4807-9B2B-4F2CCB85B2D5}|Client\\Client.csproj|c:\\users\\timaf\\documents\\github\\apicarus\\client\\pages\\menu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7E39742C-7233-4807-9B2B-4F2CCB85B2D5}|Client\\Client.csproj|solutionrelative:client\\pages\\menu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{7E39742C-7233-4807-9B2B-4F2CCB85B2D5}|Client\\Client.csproj|c:\\users\\timaf\\documents\\github\\apicarus\\client\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E39742C-7233-4807-9B2B-4F2CCB85B2D5}|Client\\Client.csproj|solutionrelative:client\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E39742C-7233-4807-9B2B-4F2CCB85B2D5}|Client\\Client.csproj|c:\\users\\timaf\\documents\\github\\apicarus\\client\\pages\\car.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E39742C-7233-4807-9B2B-4F2CCB85B2D5}|Client\\Client.csproj|solutionrelative:client\\pages\\car.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFAFB84-7DBC-44AC-B415-4130D3012A56}|ApiCarus\\ApiCarus.csproj|c:\\users\\timaf\\documents\\github\\apicarus\\apicarus\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFAFB84-7DBC-44AC-B415-4130D3012A56}|ApiCarus\\ApiCarus.csproj|solutionrelative:apicarus\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E39742C-7233-4807-9B2B-4F2CCB85B2D5}|Client\\Client.csproj|c:\\users\\timaf\\documents\\github\\apicarus\\client\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E39742C-7233-4807-9B2B-4F2CCB85B2D5}|Client\\Client.csproj|solutionrelative:client\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +30,67 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.razor",
-              "DocumentMoniker": "C:\\Users\\timaf\\Documents\\GitHub\\ApiCarus\\Client\\Pages\\Index.razor",
-              "RelativeDocumentMoniker": "Client\\Pages\\Index.razor",
-              "ToolTip": "C:\\Users\\timaf\\Documents\\GitHub\\ApiCarus\\Client\\Pages\\Index.razor*",
-              "RelativeToolTip": "Client\\Pages\\Index.razor*",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAADkAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-20T15:49:01.099Z",
+              "DocumentIndex": 1,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\timaf\\Documents\\GitHub\\ApiCarus\\Client\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "Client\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\timaf\\Documents\\GitHub\\ApiCarus\\Client\\wwwroot\\index.html",
+              "RelativeToolTip": "Client\\wwwroot\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-12-20T16:37:59.929Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Menu.razor",
-              "DocumentMoniker": "C:\\Users\\timaf\\Documents\\GitHub\\ApiCarus\\Client\\Pages\\Menu.razor",
-              "RelativeDocumentMoniker": "Client\\Pages\\Menu.razor",
-              "ToolTip": "C:\\Users\\timaf\\Documents\\GitHub\\ApiCarus\\Client\\Pages\\Menu.razor",
-              "RelativeToolTip": "Client\\Pages\\Menu.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\Users\\timaf\\Documents\\GitHub\\ApiCarus\\Client\\wwwroot\\css\\app.css",
+              "RelativeDocumentMoniker": "Client\\wwwroot\\css\\app.css",
+              "ToolTip": "C:\\Users\\timaf\\Documents\\GitHub\\ApiCarus\\Client\\wwwroot\\css\\app.css",
+              "RelativeToolTip": "Client\\wwwroot\\css\\app.css",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-20T16:36:52.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\timaf\\Documents\\GitHub\\ApiCarus\\ApiCarus\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "ApiCarus\\Models\\Car.cs",
+              "ToolTip": "C:\\Users\\timaf\\Documents\\GitHub\\ApiCarus\\ApiCarus\\Models\\Car.cs",
+              "RelativeToolTip": "ApiCarus\\Models\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T16:26:00.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\timaf\\Documents\\GitHub\\ApiCarus\\Client\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "Client\\Pages\\Index.razor",
+              "ToolTip": "C:\\Users\\timaf\\Documents\\GitHub\\ApiCarus\\Client\\Pages\\Index.razor",
+              "RelativeToolTip": "Client\\Pages\\Index.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-20T15:49:01.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Car.razor",
+              "DocumentMoniker": "C:\\Users\\timaf\\Documents\\GitHub\\ApiCarus\\Client\\Pages\\Car.razor",
+              "RelativeDocumentMoniker": "Client\\Pages\\Car.razor",
+              "ToolTip": "C:\\Users\\timaf\\Documents\\GitHub\\ApiCarus\\Client\\Pages\\Car.razor",
+              "RelativeToolTip": "Client\\Pages\\Car.razor",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-20T15:48:58.554Z",
               "EditorCaption": ""

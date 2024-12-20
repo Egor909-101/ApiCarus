@@ -8,20 +8,26 @@
         <table class="table">
             <thead>
                 <tr>
-                    <th scope="col">ProductId</th>
-                    <th scope="col">Name</th>
-                    <th scope="col">Description</th>
-                    <th scope="col">Prise</th>
+                    <th scope="col">CarId</th>
+                    <th scope="col">Brand</th>
+                    <th scope="col">Model</th>
+                    <th scope="col">Year</th>
+                    <th scope="col">Mileage</th>
+                    <th scope="col">Price</th>
+                    <th scope="col">Description</th>                  
                 </tr>
             </thead>
             <tbody>
                @foreach (var flow in result)
                 {
                     <tr>
-                        <th scope="row">@flow.ProductId</th>
-                        <td>@flow.Name</td>
+                        <th scope="row">@flow.CarId</th>
+                        <td>@flow.Brand</td>
+                        <td>@flow.Model</td>
+                        <td>@flow.Year</td>
+                        <td>@flow.Mileage</td>
+                        <td>@flow.Price</td>         
                         <td>@flow.Description</td>
-                        <td>@flow.Price</td>
                     </tr>
                 } 
             </tbody>
@@ -56,9 +62,9 @@
     {
         var client = new HttpClient();
 
-        client.BaseAddress = new Uri("https://apiandri.onrender.com/");
+        client.BaseAddress = new Uri("https://apicarus.onrender.com/");
 
-        result = await client.GetFromJsonAsync<Cars[]>("api/Product");
+        result = await client.GetFromJsonAsync<Cars[]>("api/Car");
 
         return;
     }

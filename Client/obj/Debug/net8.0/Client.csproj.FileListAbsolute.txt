@@ -4135,6 +4135,6 @@ C:\Users\timaf\Documents\GitHub\ApiCarus\Client\obj\Debug\net8.0\Client.dll
 C:\Users\timaf\Documents\GitHub\ApiCarus\Client\obj\Debug\net8.0\refint\Client.dll
 C:\Users\timaf\Documents\GitHub\ApiCarus\Client\obj\Debug\net8.0\Client.pdb
 C:\Users\timaf\Documents\GitHub\ApiCarus\Client\obj\Debug\net8.0\ref\Client.dll
-C:\Users\timaf\Documents\GitHub\ApiCarus\Client\obj\Debug\net8.0\compressed\kb90l4x90i-ldxifvlugt.gz
-C:\Users\timaf\Documents\GitHub\ApiCarus\Client\obj\Debug\net8.0\compressed\nrce2f7bjz-00efqmeq13.gz
-C:\Users\timaf\Documents\GitHub\ApiCarus\Client\obj\Debug\net8.0\compressed\0kih5qk3hm-6auffdxvcp.gz
+C:\Users\timaf\Documents\GitHub\ApiCarus\Client\obj\Debug\net8.0\compressed\kb90l4x90i-0cb6kxi9wu.gz
+C:\Users\timaf\Documents\GitHub\ApiCarus\Client\obj\Debug\net8.0\compressed\nrce2f7bjz-o8ytzfet0b.gz
+C:\Users\timaf\Documents\GitHub\ApiCarus\Client\obj\Debug\net8.0\compressed\0kih5qk3hm-7oijimuxy2.gz
