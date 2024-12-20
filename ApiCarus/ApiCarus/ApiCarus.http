@@ -1,0 +1,6 @@
+@ApiCarus_HostAddress = http://localhost:5130
+
+GET {{ApiCarus_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
