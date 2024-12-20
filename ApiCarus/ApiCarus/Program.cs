@@ -1,5 +1,8 @@
 
-namespace ApiCarus
+using ApiCarus.Models;
+using Microsoft.EntityFrameworkCore;
+
+namespace Api_Car
 {
     public class Program
     {
@@ -7,27 +10,48 @@ namespace ApiCarus
         {
             var builder = WebApplication.CreateBuilder(args);
 
-            // Add services to the container.
+            // Проверка строки подключения
+            var connectionString = builder.Configuration["ConnectionString"];
+            if (string.IsNullOrEmpty(connectionString))
+            {
+                throw new InvalidOperationException("ConnectionString is missing in configuration.");
+            }
 
+            // Добавление DbContext
+            builder.Services.AddDbContext<CarContext>(
+                options => options.UseSqlServer(connectionString));
+
+            // Настройка CORS
+            builder.Services.AddCors(options =>
+            {
+                options.AddPolicy("MyPolicy", policy =>
+                {
+                    policy.AllowAnyOrigin()
+                          .AllowAnyMethod()
+                          .AllowAnyHeader();
+                });
+            });
+
+            // Добавление контроллеров
             builder.Services.AddControllers();
-            // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
 
             var app = builder.Build();
 
-            // Configure the HTTP request pipeline.
+            // Настройка HTTP-конвейера
             if (app.Environment.IsDevelopment())
             {
                 app.UseSwagger();
                 app.UseSwaggerUI();
             }
 
-            app.UseHttpsRedirection();
-
             app.UseAuthorization();
 
+            // Использование CORS
+            app.UseCors("MyPolicy");
 
+            // Регистрация контроллеров
             app.MapControllers();
 
             app.Run();

@@ -3,15 +3,75 @@
   "WorkspaceRootPath": "C:\\Users\\timaf\\Documents\\GitHub\\ApiCarus\\ApiCarus\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1EFAFB84-7DBC-44AC-B415-4130D3012A56}|ApiCarus\\ApiCarus.csproj|c:\\users\\timaf\\documents\\github\\apicarus\\apicarus\\apicarus\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFAFB84-7DBC-44AC-B415-4130D3012A56}|ApiCarus\\ApiCarus.csproj|solutionrelative:apicarus\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFAFB84-7DBC-44AC-B415-4130D3012A56}|ApiCarus\\ApiCarus.csproj|c:\\users\\timaf\\documents\\github\\apicarus\\apicarus\\apicarus\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFAFB84-7DBC-44AC-B415-4130D3012A56}|ApiCarus\\ApiCarus.csproj|solutionrelative:apicarus\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFAFB84-7DBC-44AC-B415-4130D3012A56}|ApiCarus\\ApiCarus.csproj|c:\\users\\timaf\\documents\\github\\apicarus\\apicarus\\apicarus\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFAFB84-7DBC-44AC-B415-4130D3012A56}|ApiCarus\\ApiCarus.csproj|solutionrelative:apicarus\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFAFB84-7DBC-44AC-B415-4130D3012A56}|ApiCarus\\ApiCarus.csproj|c:\\users\\timaf\\documents\\github\\apicarus\\apicarus\\apicarus\\controllers\\purchasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFAFB84-7DBC-44AC-B415-4130D3012A56}|ApiCarus\\ApiCarus.csproj|solutionrelative:apicarus\\controllers\\purchasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFAFB84-7DBC-44AC-B415-4130D3012A56}|ApiCarus\\ApiCarus.csproj|c:\\users\\timaf\\documents\\github\\apicarus\\apicarus\\apicarus\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFAFB84-7DBC-44AC-B415-4130D3012A56}|ApiCarus\\ApiCarus.csproj|solutionrelative:apicarus\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFAFB84-7DBC-44AC-B415-4130D3012A56}|ApiCarus\\ApiCarus.csproj|c:\\users\\timaf\\documents\\github\\apicarus\\apicarus\\apicarus\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFAFB84-7DBC-44AC-B415-4130D3012A56}|ApiCarus\\ApiCarus.csproj|solutionrelative:apicarus\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFAFB84-7DBC-44AC-B415-4130D3012A56}|ApiCarus\\ApiCarus.csproj|c:\\users\\timaf\\documents\\github\\apicarus\\apicarus\\apicarus\\models\\purchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFAFB84-7DBC-44AC-B415-4130D3012A56}|ApiCarus\\ApiCarus.csproj|solutionrelative:apicarus\\models\\purchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFAFB84-7DBC-44AC-B415-4130D3012A56}|ApiCarus\\ApiCarus.csproj|c:\\users\\timaf\\documents\\github\\apicarus\\apicarus\\apicarus\\controllers\\imagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFAFB84-7DBC-44AC-B415-4130D3012A56}|ApiCarus\\ApiCarus.csproj|solutionrelative:apicarus\\controllers\\imagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFAFB84-7DBC-44AC-B415-4130D3012A56}|ApiCarus\\ApiCarus.csproj|c:\\users\\timaf\\documents\\github\\apicarus\\apicarus\\apicarus\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFAFB84-7DBC-44AC-B415-4130D3012A56}|ApiCarus\\ApiCarus.csproj|solutionrelative:apicarus\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFAFB84-7DBC-44AC-B415-4130D3012A56}|ApiCarus\\ApiCarus.csproj|c:\\users\\timaf\\documents\\github\\apicarus\\apicarus\\apicarus\\models\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFAFB84-7DBC-44AC-B415-4130D3012A56}|ApiCarus\\ApiCarus.csproj|solutionrelative:apicarus\\models\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFAFB84-7DBC-44AC-B415-4130D3012A56}|ApiCarus\\ApiCarus.csproj|c:\\users\\timaf\\documents\\github\\apicarus\\apicarus\\apicarus\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFAFB84-7DBC-44AC-B415-4130D3012A56}|ApiCarus\\ApiCarus.csproj|solutionrelative:apicarus\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFAFB84-7DBC-44AC-B415-4130D3012A56}|ApiCarus\\ApiCarus.csproj|c:\\users\\timaf\\documents\\github\\apicarus\\apicarus\\apicarus\\models\\carcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFAFB84-7DBC-44AC-B415-4130D3012A56}|ApiCarus\\ApiCarus.csproj|solutionrelative:apicarus\\models\\carcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFAFB84-7DBC-44AC-B415-4130D3012A56}|ApiCarus\\ApiCarus.csproj|c:\\users\\timaf\\documents\\github\\apicarus\\apicarus\\apicarus\\models\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFAFB84-7DBC-44AC-B415-4130D3012A56}|ApiCarus\\ApiCarus.csproj|solutionrelative:apicarus\\models\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFAFB84-7DBC-44AC-B415-4130D3012A56}|ApiCarus\\ApiCarus.csproj|c:\\users\\timaf\\documents\\github\\apicarus\\apicarus\\apicarus\\apicarus.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1EFAFB84-7DBC-44AC-B415-4130D3012A56}|ApiCarus\\ApiCarus.csproj|solutionrelative:apicarus\\apicarus.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\timaf\\Documents\\GitHub\\ApiCarus\\ApiCarus\\ApiCarus\\RulezContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ApiCarus\\RulezContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFAFB84-7DBC-44AC-B415-4130D3012A56}|ApiCarus\\ApiCarus.csproj|c:\\users\\timaf\\documents\\github\\apicarus\\apicarus\\apicarus\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1EFAFB84-7DBC-44AC-B415-4130D3012A56}|ApiCarus\\ApiCarus.csproj|solutionrelative:apicarus\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1EFAFB84-7DBC-44AC-B415-4130D3012A56}|ApiCarus\\ApiCarus.csproj|c:\\users\\timaf\\documents\\github\\apicarus\\apicarus\\apicarus\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1EFAFB84-7DBC-44AC-B415-4130D3012A56}|ApiCarus\\ApiCarus.csproj|solutionrelative:apicarus\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\timaf\\Documents\\GitHub\\ApiKinoisk\\ApiKinoisk\\Controllers\\WeatherForecastController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1EFAFB84-7DBC-44AC-B415-4130D3012A56}|ApiCarus\\ApiCarus.csproj|c:\\users\\timaf\\documents\\github\\apicarus\\apicarus\\apicarus\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{1EFAFB84-7DBC-44AC-B415-4130D3012A56}|ApiCarus\\ApiCarus.csproj|solutionrelative:apicarus\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,11 +81,206 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PurchaseController.cs",
+              "DocumentMoniker": "C:\\Users\\timaf\\Documents\\GitHub\\ApiCarus\\ApiCarus\\ApiCarus\\Controllers\\PurchaseController.cs",
+              "RelativeDocumentMoniker": "ApiCarus\\Controllers\\PurchaseController.cs",
+              "ToolTip": "C:\\Users\\timaf\\Documents\\GitHub\\ApiCarus\\ApiCarus\\ApiCarus\\Controllers\\PurchaseController.cs",
+              "RelativeToolTip": "ApiCarus\\Controllers\\PurchaseController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T15:22:19.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\timaf\\Documents\\GitHub\\ApiCarus\\ApiCarus\\ApiCarus\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "ApiCarus\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\timaf\\Documents\\GitHub\\ApiCarus\\ApiCarus\\ApiCarus\\Controllers\\UserController.cs",
+              "RelativeToolTip": "ApiCarus\\Controllers\\UserController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAcwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T15:17:52.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReviewController.cs",
+              "DocumentMoniker": "C:\\Users\\timaf\\Documents\\GitHub\\ApiCarus\\ApiCarus\\ApiCarus\\Controllers\\ReviewController.cs",
+              "RelativeDocumentMoniker": "ApiCarus\\Controllers\\ReviewController.cs",
+              "ToolTip": "C:\\Users\\timaf\\Documents\\GitHub\\ApiCarus\\ApiCarus\\ApiCarus\\Controllers\\ReviewController.cs",
+              "RelativeToolTip": "ApiCarus\\Controllers\\ReviewController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T15:22:37.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\timaf\\Documents\\GitHub\\ApiCarus\\ApiCarus\\ApiCarus\\Program.cs",
+              "RelativeDocumentMoniker": "ApiCarus\\Program.cs",
+              "ToolTip": "C:\\Users\\timaf\\Documents\\GitHub\\ApiCarus\\ApiCarus\\ApiCarus\\Program.cs",
+              "RelativeToolTip": "ApiCarus\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T15:22:44.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\timaf\\Documents\\GitHub\\ApiCarus\\ApiCarus\\ApiCarus\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ApiCarus\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\timaf\\Documents\\GitHub\\ApiCarus\\ApiCarus\\ApiCarus\\Models\\User.cs",
+              "RelativeToolTip": "ApiCarus\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T15:29:34.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\timaf\\Documents\\GitHub\\ApiCarus\\ApiCarus\\ApiCarus\\Models\\Review.cs",
+              "RelativeDocumentMoniker": "ApiCarus\\Models\\Review.cs",
+              "ToolTip": "C:\\Users\\timaf\\Documents\\GitHub\\ApiCarus\\ApiCarus\\ApiCarus\\Models\\Review.cs",
+              "RelativeToolTip": "ApiCarus\\Models\\Review.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T15:28:32.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Purchase.cs",
+              "DocumentMoniker": "C:\\Users\\timaf\\Documents\\GitHub\\ApiCarus\\ApiCarus\\ApiCarus\\Models\\Purchase.cs",
+              "RelativeDocumentMoniker": "ApiCarus\\Models\\Purchase.cs",
+              "ToolTip": "C:\\Users\\timaf\\Documents\\GitHub\\ApiCarus\\ApiCarus\\ApiCarus\\Models\\Purchase.cs",
+              "RelativeToolTip": "ApiCarus\\Models\\Purchase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T15:28:06.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Image.cs",
+              "DocumentMoniker": "C:\\Users\\timaf\\Documents\\GitHub\\ApiCarus\\ApiCarus\\ApiCarus\\Models\\Image.cs",
+              "RelativeDocumentMoniker": "ApiCarus\\Models\\Image.cs",
+              "ToolTip": "C:\\Users\\timaf\\Documents\\GitHub\\ApiCarus\\ApiCarus\\ApiCarus\\Models\\Image.cs",
+              "RelativeToolTip": "ApiCarus\\Models\\Image.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T15:24:08.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\timaf\\Documents\\GitHub\\ApiCarus\\ApiCarus\\ApiCarus\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "ApiCarus\\Models\\Car.cs",
+              "ToolTip": "C:\\Users\\timaf\\Documents\\GitHub\\ApiCarus\\ApiCarus\\ApiCarus\\Models\\Car.cs",
+              "RelativeToolTip": "ApiCarus\\Models\\Car.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T15:23:15.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ImageController.cs",
+              "DocumentMoniker": "C:\\Users\\timaf\\Documents\\GitHub\\ApiCarus\\ApiCarus\\ApiCarus\\Controllers\\ImageController.cs",
+              "RelativeDocumentMoniker": "ApiCarus\\Controllers\\ImageController.cs",
+              "ToolTip": "C:\\Users\\timaf\\Documents\\GitHub\\ApiCarus\\ApiCarus\\ApiCarus\\Controllers\\ImageController.cs",
+              "RelativeToolTip": "ApiCarus\\Controllers\\ImageController.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAcwFAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T15:18:31.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CarController.cs",
+              "DocumentMoniker": "C:\\Users\\timaf\\Documents\\GitHub\\ApiCarus\\ApiCarus\\ApiCarus\\Controllers\\CarController.cs",
+              "RelativeDocumentMoniker": "ApiCarus\\Controllers\\CarController.cs",
+              "ToolTip": "C:\\Users\\timaf\\Documents\\GitHub\\ApiCarus\\ApiCarus\\ApiCarus\\Controllers\\CarController.cs",
+              "RelativeToolTip": "ApiCarus\\Controllers\\CarController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T15:18:09.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CarContext.cs",
+              "DocumentMoniker": "C:\\Users\\timaf\\Documents\\GitHub\\ApiCarus\\ApiCarus\\ApiCarus\\Models\\CarContext.cs",
+              "RelativeDocumentMoniker": "ApiCarus\\Models\\CarContext.cs",
+              "ToolTip": "C:\\Users\\timaf\\Documents\\GitHub\\ApiCarus\\ApiCarus\\ApiCarus\\Models\\CarContext.cs",
+              "RelativeToolTip": "ApiCarus\\Models\\CarContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T15:16:49.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\timaf\\Documents\\GitHub\\ApiCarus\\ApiCarus\\ApiCarus\\Models\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "ApiCarus\\Models\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\timaf\\Documents\\GitHub\\ApiCarus\\ApiCarus\\ApiCarus\\Models\\WeatherForecast.cs",
+              "RelativeToolTip": "ApiCarus\\Models\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T15:16:37.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApiCarus",
+              "DocumentMoniker": "C:\\Users\\timaf\\Documents\\GitHub\\ApiCarus\\ApiCarus\\ApiCarus\\ApiCarus.csproj",
+              "RelativeDocumentMoniker": "ApiCarus\\ApiCarus.csproj",
+              "ToolTip": "C:\\Users\\timaf\\Documents\\GitHub\\ApiCarus\\ApiCarus\\ApiCarus\\ApiCarus.csproj",
+              "RelativeToolTip": "ApiCarus\\ApiCarus.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-20T15:16:14.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RulezContext.cs",
+              "DocumentMoniker": "C:\\Users\\timaf\\Documents\\GitHub\\ApiCarus\\ApiCarus\\ApiCarus\\RulezContext.cs",
+              "RelativeDocumentMoniker": "ApiCarus\\RulezContext.cs",
+              "ToolTip": "C:\\Users\\timaf\\Documents\\GitHub\\ApiCarus\\ApiCarus\\ApiCarus\\RulezContext.cs",
+              "RelativeToolTip": "ApiCarus\\RulezContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T15:15:39.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\Users\\timaf\\Documents\\GitHub\\ApiCarus\\ApiCarus\\ApiCarus\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "ApiCarus\\Controllers\\WeatherForecastController.cs",
@@ -38,7 +293,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 17,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\Users\\timaf\\Documents\\GitHub\\ApiKinoisk\\ApiKinoisk\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "..\\..\\ApiKinoisk\\ApiKinoisk\\Controllers\\WeatherForecastController.cs",
@@ -51,13 +306,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 15,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\timaf\\Documents\\GitHub\\ApiCarus\\ApiCarus\\ApiCarus\\appsettings.json",
               "RelativeDocumentMoniker": "ApiCarus\\appsettings.json",
               "ToolTip": "C:\\Users\\timaf\\Documents\\GitHub\\ApiCarus\\ApiCarus\\ApiCarus\\appsettings.json",
               "RelativeToolTip": "ApiCarus\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAACEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-12-20T15:07:31.355Z",
               "EditorCaption": ""

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApiCarus")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+40a46bb61f82f4e41dd3366c29ee5a295a70534d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8d37a9f735b5413083bf4c69e3021a09f538b44a")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApiCarus")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApiCarus")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
